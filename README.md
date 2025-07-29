@@ -7,4 +7,13 @@ I'm a self-taught Frontend Developer passionate about building responsive web ap
 - ☀️ [Weather App](https://ayushi-sharma-24.github.io/Weatherapp/) — Built with React & OpenWeather API to show real-time weather.
 - 🧠 [Virtual Assistant](https://ayushi-sharma-24.github.io/Virtual-Assistant-Siri/) — Voice-enabled assistant for basic commands.
 
+## 💻 Tech Stack
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+
 
